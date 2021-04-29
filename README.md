@@ -12,7 +12,7 @@ The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasi
 The data are provied by Xian Y, Lampert C H, Schiele B, et al. Zero-shot learning -- A comprehensive evaluation of the good, the bad and the ugly. IEEE TPAMI 2018  
 
 Please consider citing our work if you find it helpful to your research:  
-@article{Chen2020Domain,
+@article{chen2020domain,
   title={Domain Adaptation by Joint Distribution Invariant Projections}, 
   journal={IEEE Transactions on Image Processing}, 
   volume={29},
