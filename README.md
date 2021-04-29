@@ -13,15 +13,15 @@ The data are provied by Xian Y, Lampert C H, Schiele B, et al. Zero-shot learnin
 
 Please consider citing our work if you find it helpful to your research:  
 @article{Chen2020Domain,
-author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei},
-journal={IEEE Transactions on Image Processing}, 
-title={Domain Adaptation by Joint Distribution Invariant Projections}, 
-year={2020},
-volume={29},
-number={},
-pages={8264-8277},
-doi={10.1109/TIP.2020.3013167}
-}
+  title={Domain Adaptation by Joint Distribution Invariant Projections}, 
+  journal={IEEE Transactions on Image Processing}, 
+  volume={29},
+  number={},
+  pages={8264-8277},
+  year={2020},
+  doi={10.1109/TIP.2020.3013167},
+  author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei}
+  }
 
 Please cite our paper if you find this code helpful to your research:  
 @article{wu2021joint,  
