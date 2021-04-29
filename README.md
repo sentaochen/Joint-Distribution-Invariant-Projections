@@ -23,8 +23,8 @@ Please consider citing our work if you find it helpful to your research:
   }
 
 Please cite our paper if you find this code helpful to your research:  
-@article{Chen2020Domain,  
-title = {Domain Adaptation by Joint Distribution Invariant Projections},  
+@article{Chen2020Domain,    
+title = {Domain Adaptation by Joint Distribution Invariant Projections},   
 journal = {IEEE Transactions on Image Processing},  
 volume = {29},  
 pages = {8264-8277},  
@@ -34,7 +34,7 @@ author = {Sentao, Chen and Mehrtash, Harandi and Xiaona, Jin and Xiaowei, Yang}
 }
 
 
-@ARTICLE{Chen2020Domain,
+@ARTICLE{Chen2020Domain,  
 title={Domain Adaptation by Joint Distribution Invariant Projections},  
 journal={IEEE Transactions on Image Processing},  
 volume={29},  
