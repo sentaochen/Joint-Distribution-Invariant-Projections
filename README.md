@@ -30,5 +30,5 @@ volume = {29},
 pages = {8264-8277},  
 year = {2020},  
 doi = {10.1109/TIP.2020.3013167},  
-author = {Hanrui, Wu and Yuguang, Yan and Sentao, Chen and Xiangkang, Huang and Qingyao, Wu and Michael, K. Ng}  
+author = {Sentao, Chen and Mehrtash, Harandi and Xiaona, Jin and Xiaowei, Yang}  
 }
