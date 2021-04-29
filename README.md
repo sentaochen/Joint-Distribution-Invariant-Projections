@@ -3,7 +3,11 @@
 This is the python 2 implementation of the domain adaptation approach JDIP. It relies on the pymanopt (https://www.pymanopt.org/) toolbox for optimization on the Riemannian manifold.
 
 Briefly speaking, the goal JDIP is to solve the joint distribution mismatch problem in domain adaptation. To this end, it exploits a couple of points on the Stiefel manifold to match the source and target joint distributions under the $L^{2}$-distance. The following figure illustrates this joint distribution matching procedure.   
+
+
 ![procedure](procedure.jpg)
+
+
 
 For more details of this domain adaptation approach,  please refer to our IEEE TIP work:  
 @article{Chen2020Domain,  
