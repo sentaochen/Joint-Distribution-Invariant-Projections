@@ -9,7 +9,8 @@ Briefly speaking, the goal of JDIP is to solve the joint distribution mismatch p
 
 
 
-For more details of this domain adaptation approach,  please refer to our IEEE TIP work:  
+For more details of this domain adaptation approach,  please refer to our IEEE TIP work: 
+
 @article{Chen2020Domain,  
   author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei},  
   journal={IEEE Transactions on Image Processing},   
