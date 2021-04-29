@@ -32,3 +32,14 @@ year = {2020},
 doi = {10.1109/TIP.2020.3013167},  
 author = {Sentao, Chen and Mehrtash, Harandi and Xiaona, Jin and Xiaowei, Yang}  
 }
+
+
+@ARTICLE{9159880,
+  author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Domain Adaptation by Joint Distribution Invariant Projections}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={8264-8277},
+  doi={10.1109/TIP.2020.3013167}}
