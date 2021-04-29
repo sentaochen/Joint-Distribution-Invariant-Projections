@@ -23,12 +23,12 @@ Please consider citing our work if you find it helpful to your research:
   }
 
 Please cite our paper if you find this code helpful to your research:  
-@article{wu2021joint,  
-title = {Joint Visual and Semantic Optimization for zero-shot learning},  
-journal = {Knowledge-Based Systems},  
-volume = {215},  
-pages = {106773},  
-year = {2021},  
-doi = {https://doi.org/10.1016/j.knosys.2021.106773},  
+@article{Chen2020Domain,  
+title = {Domain Adaptation by Joint Distribution Invariant Projections},  
+journal = {IEEE Transactions on Image Processing},  
+volume = {29},  
+pages = {8264-8277},  
+year = {2020},  
+doi = {10.1109/TIP.2020.3013167},  
 author = {Hanrui, Wu and Yuguang, Yan and Sentao, Chen and Xiangkang, Huang and Qingyao, Wu and Michael, K. Ng}  
 }
