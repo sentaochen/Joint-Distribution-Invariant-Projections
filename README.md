@@ -5,7 +5,7 @@ A demo application running on the Office-Caltech data set with the 4096-dimensio
 Domain Adaptation by Joint Distribution Invariant Projections, IEEE Transactions on Image Processing, 2020 [[pdf](https://ieeexplore.ieee.org/document/9159880)]  
 Authors: Sentao Chen, Mehrtash Harandi, Xiaona Jin, and Xiaowei Yang.  
 
-An illustration of the proposed JDIP approach for domain adaptation, which exploits a couple of projections to match the source and target joint distributions under the L^{2}-distance.   
+An illustration of the proposed JDIP approach for domain adaptation, which exploits a couple of projections to match the source and target joint distributions under the $L^{2}$-distance.   
 ![procedure](procedure.jpg)
 
 The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasible method for optimization with orthogonality constraints. Mathematical Programming 2013  
