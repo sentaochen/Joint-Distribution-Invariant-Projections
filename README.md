@@ -1,27 +1,23 @@
-# JDIP
-Joint Distribution Invariant Projections (JDIP) implemented in Python
+# Joint Distribution Invariant Projections (JDIP)
 
-## Visual and Semantic OPtimization (VSOP)
 
-A demo application running on the AWA1 data set  
-Joint Visual and Semantic Optimization for Zero-shot Learning, Knowledge-Based Systems, 2021 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000368?via%3Dihub)]  
-Authors: Hanrui Wu, Yuguang Yan, Sentao Chen, Xiangkang Huang, Qingyao Wu, Michael K. Ng  
-Please note that the initialization of the mapping matrices P and Q has an impact on the result.  
+A demo application running on the Office-Caltech data set with the 4096-dimensional VGG-FC6 features.
+Domain Adaptation by Joint Distribution Invariant Projections, IEEE Transactions on Image Processing, 2020 [[pdf](https://ieeexplore.ieee.org/document/9159880)]  
+Authors: Sentao Chen, Mehrtash Harandi, Xiaona Jin, and Xiaowei Yang.  
 
-An illustration of the proposed VSOP method  
-![procedure](procedure.png)
+An illustration of the proposed JDIP approach for domain adaptation, which exploits a couple of projections to match the source and target joint distributions under the L^{2}-distance.   
+![procedure](procedure.jpg)
 
 The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasible method for optimization with orthogonality constraints. Mathematical Programming 2013  
 The data are provied by Xian Y, Lampert C H, Schiele B, et al. Zero-shot learning -- A comprehensive evaluation of the good, the bad and the ugly. IEEE TPAMI 2018  
 
-Please cite our paper if you find this code helpful to your research:  
-@article{wu2021joint,  
-title = {Joint Visual and Semantic Optimization for zero-shot learning},  
-journal = {Knowledge-Based Systems},  
-volume = {215},  
-pages = {106773},  
-year = {2021},  
-doi = {https://doi.org/10.1016/j.knosys.2021.106773},  
-author = {Hanrui, Wu and Yuguang, Yan and Sentao, Chen and Xiangkang, Huang and Qingyao, Wu and Michael, K. Ng}  
-}
-
+Please consider citing our work if you find it helpful to your research:  
+@article{Chen2020Domain,
+  author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Domain Adaptation by Joint Distribution Invariant Projections}, 
+  year={2020},
+  volume={29},
+  number={},
+  pages={8264-8277},
+  doi={10.1109/TIP.2020.3013167}}
