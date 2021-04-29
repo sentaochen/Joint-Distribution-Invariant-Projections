@@ -40,6 +40,6 @@ journal={IEEE Transactions on Image Processing},
 volume={29},
 pages={8264-8277},
 year={2020},
-doi={10.1109/TIP.2020.3013167}
-author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei},
+doi={10.1109/TIP.2020.3013167},
+author={Chen, Sentao and Harandi, Mehrtash and Jin, Xiaona and Yang, Xiaowei}
 }
