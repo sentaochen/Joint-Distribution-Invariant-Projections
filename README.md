@@ -1,6 +1,6 @@
 # Joint Distribution Invariant Projections (JDIP)
 
-This is a python 2 implementation of the domain adaptation approach JDIP. The implementation relies on the pymanopt toolbox available at https://www.pymanopt.org/.
+This repository provides a python 2 implementation (JDIP.py) of the domain adaptation approach JDIP. The implementation relies on the pymanopt toolbox available at https://www.pymanopt.org/. The jupyter notebook demo.ipynb shows how to run this method in a semi-supervised domain adaptation setting.
 
 Briefly speaking, the goal of JDIP is to solve the joint distribution mismatch problem in domain adaptation. To this end, it exploits a couple of points on the Stiefel manifold to match the source and target joint distributions under the $L^{2}$-distance. The following figure illustrates this joint distribution matching idea.   
 
